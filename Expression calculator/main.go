@@ -14,7 +14,7 @@ func main() {
 	fmt.Println("Введите первое число: ")
 	fmt.Scan(&SecondNumber)
 
-	fmt.Println("Выбирайте  любую операцию \n 1 Сложение \n 2 Вычитание \n 3 Деление \n 4 Умножение ")
+	fmt.Println("Выбирайте  любую операцию: \n 1 Сложение \n 2 Вычитание \n 3 Деление \n 4 Умножение ")
 	fmt.Scan(&Selection)
 
 	switch Selection {
