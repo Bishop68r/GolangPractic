@@ -11,7 +11,7 @@ func main() {
 	fmt.Println("Добро пожаловать, в какулятор выражений! ")
 	fmt.Println("Введите первое число:")
 	fmt.Scan(&FirstNumber)
-	fmt.Println("Введите первое число: ")
+	fmt.Println("Введите второе число: ")
 	fmt.Scan(&SecondNumber)
 
 	fmt.Println("Выбирайте  любую операцию: \n 1 Сложение \n 2 Вычитание \n 3 Деление \n 4 Умножение ")
