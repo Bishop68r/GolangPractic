@@ -1,0 +1,39 @@
+Index: ../Еven numbers/.idea/Еven numbers.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../Еven numbers/.idea/Еven numbers.iml b/../Еven numbers/.idea/Еven numbers.iml
+new file mode 100644
+--- /dev/null	(date 1695465021180)
++++ b/../Еven numbers/.idea/Еven numbers.iml	(date 1695465021180)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="WEB_MODULE" version="4">
++  <component name="Go" enabled="true" />
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: ../Greeting/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"\" vcs=\"Git\" />\r\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../Greeting/.idea/vcs.xml b/../Greeting/.idea/vcs.xml
+--- a/../Greeting/.idea/vcs.xml	(revision dfc3887eb298527f35563c0448eb0e9942c0fcad)
++++ b/../Greeting/.idea/vcs.xml	(date 1695486485606)
+@@ -2,6 +2,7 @@
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+     <mapping directory="" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
